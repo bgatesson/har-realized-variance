@@ -1,0 +1,7 @@
+# Install with:  pip install -r requirements.txt
+
+streamlit>=1.30
+pandas>=2.0
+pyarrow>=14.0
+plotly>=5.18
+numpy>=1.24
